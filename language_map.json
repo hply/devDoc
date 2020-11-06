@@ -1,0 +1,27 @@
+{
+  "input_file": "aaaaa.xlsx",
+  "output_path": "/Users/jdwang/dev/code/lebbay/themis_android/lib/resource/src/main/res/",
+  "language-map": {
+    "en": "",
+    "de": "de",
+    "es": "es",
+    "fr": "fr",
+    "se": "sv",
+    "no": "no",
+    "it": "it",
+    "pt": "pt",
+    "da": "da",
+    "fi": "fi",
+    "ru": "ru",
+    "nl": "nl",
+    "ar": "ar",
+    "he": "iw",
+    "pl": "pl",
+    "cs": "cs",
+    "sk": "sk",
+    "tr": "tr",
+    "id": "in",
+    "tw": "tw",
+    "ja": "ja"
+  }
+}
