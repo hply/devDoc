@@ -1,12 +1,10 @@
 {
-  "input_file": "aaaaa.xlsx",
-  "output_path": "/Users/jdwang/dev/code/lebbay/themis_android/lib/resource/src/main/res/",
+  "desc": "这是多语言插件的对应关系结构，[language-map]中的key对应着excel文件的表头,value对应着Android项目的values文件夹后缀，如values-de,values-in",
   "language-map": {
     "en": "",
     "de": "de",
     "es": "es",
     "fr": "fr",
-    "se": "sv",
     "no": "no",
     "it": "it",
     "pt": "pt",
@@ -15,13 +13,14 @@
     "ru": "ru",
     "nl": "nl",
     "ar": "ar",
-    "he": "iw",
     "pl": "pl",
     "cs": "cs",
     "sk": "sk",
     "tr": "tr",
-    "id": "in",
     "tw": "tw",
-    "ja": "ja"
+    "ja": "ja",
+    "se": "sv",
+    "he": "iw",
+    "id": "in"
   }
 }
